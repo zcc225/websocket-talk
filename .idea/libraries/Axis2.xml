@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Axis2">
+    <CLASSES>
+      <root url="file://D:/project/Axis2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/project/Axis2/src" />
+    </SOURCES>
+  </library>
+</component>
